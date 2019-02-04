@@ -1,4 +1,4 @@
-token=NTQxNzIyNzU0NjUxNzgzMTc4.DzpI4g.fa-wJRIAT3hqfOalX-zHid_masY
+token=
 owner=271676397406126082
 prefix= $
 game= No One Care
