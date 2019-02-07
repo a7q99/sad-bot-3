@@ -1,6 +1,6 @@
 token=
 owner=271676397406126082
 prefix= $
-game= No One Care
+game= نتجاهل ليبقى الود بيننا
 stayinchannel=true
 songinstatus=false 
